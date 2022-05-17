@@ -31,8 +31,8 @@ a.svg:after {
 		<object data="Badge Template Basic.htm" width="500" height="333">
 		</object>
 	</a>
-	<a class="svg" href="Doc Brown.htm" download="Doc Brown.txt">
-		<object data="Doc Brown.htm" width="500" height="333">
+	<a class="svg" href="Black Text - Logo Only.htm" download="Black Text - Logo Only.txt">
+		<object data="Black Text - Logo Only.htm" width="500" height="333">
 		</object>
 	</a>
   <a class="svg" href="Doc Brown Red.htm" download="Doc Brown Red.txt">
