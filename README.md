@@ -55,8 +55,8 @@ a.svg:after {
     <object data="Badge Portrait Template.htm" width="500" height="333">
     </object>
   </a>
-  <a class="svg" href="Traction example 2.htm" download="Traction example 2.txt">
-    <object data="Traction example 2.htm" width="500" height="333">
+  <a class="svg" href="Vertical Lines with Photo.htm" download="Vertical Lines with Photo.txt">
+    <object data="Vertical Lines with Photo.htm" width="500" height="333">
     </object>
   </a>
   <a class="svg" href="Adel Wiggins.htm" download="Badge 4.txt">
