@@ -1,0 +1,18 @@
+<div style="position: fixed; top: 0px; left: 2px; width:220px; height: 80px; display:table;">
+<span style=" width: 220px; font-size: 40px; font-weight: bold; color:#000000; display:table-cell;
+vertical-align:middle;">#firstname# #lastname#</span></div>
+<span style="font-size: large; position:fixed; top:100px; left:5px; color:#000000">#company#</span>
+<span style="font-size: large; position:fixed; top:125px; left:5px; color:#000000">Host:#hosts#</span>
+
+<span style="font-size: small; position:fixed; top:150px; left:101px; color:#000000">#date#<br></span>
+<span style="font-size: small; position:fixed; top:165px; left:101px; color:#000000">Entry time: #time#</span>
+
+<div><img src="https://account.tractionguest.com/img/profile_si_v2.png" style="height: 170px; width:auto;
+position: fixed; top: 2px; left: 265px; Border: 2px solid;"></div>
+
+<img style="position:fixed; top:160px; left:5px; height: 90px; width: auto;" src="https://us-account.tractionguest.com/img/SampleQRCode.jpg">
+
+<div style="position: fixed; top: 180px; left: 100px; width:300px;height:70px;border:1px solid: #ffffff;
+background-color: #000000;text-align: center;font-size: 45px; color:#ffffff;display:table;">
+<span style="display:table-cell;text-align:center;vertical-align:middle">#thanks#</span>
+</div>
