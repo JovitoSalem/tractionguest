@@ -23,8 +23,8 @@ a.svg:after {
 <h2>3. Paste the code into the "source" section of the Badge Editor in Traction Guest</h2>
 
 <div>
-	<a class="svg" href="Brother No Photo QR.htm" download="Brother No Photo QR.txt">
-		<object data="Brother No Photo QR.htm" width="500" height="333">
+	<a class="svg" href="QRCode-NoPhoto.htm" download="QRCode-NoPhoto.txt">
+		<object data="QRCode-NoPhoto.htm" width="500" height="333">
 		</object>
 	</a>
 	<a class="svg" href="Badge Template Basic.htm" download="Badge Template Basic.txt">
