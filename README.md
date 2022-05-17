@@ -35,8 +35,8 @@ a.svg:after {
 		<object data="Black Text - Logo Only.htm" width="500" height="333">
 		</object>
 	</a>
-  <a class="svg" href="Doc Brown Red.htm" download="Doc Brown Red.txt">
-    <object data="Doc Brown Red.htm" width="500" height="333">
+  <a class="svg" href="Red Name - Logo Only.htm" download="Red Name - Logo Only.txt">
+    <object data="Red Name - Logo Only.htm" width="500" height="333">
     </object>
   </a>
 	<a class="svg" href="John Eastwood.htm" download="John Eastwood.txt">
