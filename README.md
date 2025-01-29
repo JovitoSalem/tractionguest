@@ -16,7 +16,7 @@ a.svg:after {
 
 </head><body>
 
-<h1> <b>Traction Guest</b> Badge Templates </h1>
+<h1> <b>Sign In Solutions</b> Badge Templates </h1>
 
 <h2>1. Click on an image to access the badge code</h2>
 <h2>2. Copy the code from the downloaded file</h2>
